@@ -38,6 +38,9 @@ Crash reports are kept by Firebase for 90 days; analytics data for up to 14 mont
 ### Your rights
 You have the right to access, rectification, erasure, restriction, objection and data portability, and to lodge a complaint with a supervisory authority. Because we cannot link the anonymous data to you, please contact us at support@solarisnetwork.de with any request.
 
+### Deleting your data
+Your documents exist only on your device: delete them in the app or uninstall Papyr to remove them. To have the anonymous usage and crash data of your installation deleted, email support@solarisnetwork.de with the subject "Papyr data deletion". We delete it within 30 days. You can stop further collection at any time in **Settings → Privacy**.
+
 ### Children
 Papyr is not directed at children under 13.
 
@@ -73,6 +76,9 @@ Absturzberichte werden von Firebase 90 Tage gespeichert, Analysedaten bis zu 14 
 ### Deine Rechte
 Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch und Datenübertragbarkeit sowie auf Beschwerde bei einer Aufsichtsbehörde. Da wir die anonymen Daten dir nicht zuordnen können, wende dich bitte mit Anfragen an support@solarisnetwork.de.
 
+### Löschung deiner Daten
+Deine Dokumente gibt es nur auf deinem Gerät: Lösche sie in der App oder deinstalliere Papyr, um sie zu entfernen. Um die anonymen Nutzungs- und Absturzdaten deiner Installation löschen zu lassen, schreibe an support@solarisnetwork.de mit dem Betreff „Papyr Datenlöschung“. Wir löschen sie innerhalb von 30 Tagen. Unter **Einstellungen → Datenschutz** kannst du die weitere Erhebung jederzeit beenden.
+
 ### Kinder
 Papyr richtet sich nicht an Kinder unter 13 Jahren.
 
@@ -107,6 +113,9 @@ Firebase, Google Ireland Ltd. / Google LLC'nin bir hizmetidir. Veriler ABD'de i�
 
 ### Hakların
 Verilerine erişme, düzeltme, silme, işlemeyi kısıtlama, itiraz etme ve veri taşınabilirliği hakların ile denetim makamına şikâyet hakkın vardır. Anonim verileri seninle eşleştiremediğimiz için talepler için support@solarisnetwork.de adresine yazabilirsin.
+
+### Verilerini silme
+Belgelerin yalnızca cihazında bulunur: Uygulamada silerek ya da Papyr'i kaldırarak bunları silebilirsin. Kurulumuna ait anonim kullanım ve çökme verilerinin silinmesi için "Papyr veri silme" konulu bir e-postayı support@solarisnetwork.de adresine gönder. Bu verileri 30 gün içinde sileriz. Toplamayı istediğin zaman **Ayarlar → Gizlilik** bölümünden durdurabilirsin.
 
 ### Çocuklar
 Papyr 13 yaşından küçük çocuklara yönelik değildir.
